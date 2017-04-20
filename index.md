@@ -1,15 +1,27 @@
 
-# Encrypted
+# EncryptIt
 ## Creating a simple, secure password management platform
 Software Design Final Project 2017
 
 <sub><sup>Authors: Alex Li, Chris Aring, Sean Symenski</sup></sub>
 ![Image](src)
 
-### What is Encrypted?
-
+### What is EncryptIt?
+Password managers are everywhere. OneKey, Google Chrome, etc, 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Getting Started
+
+### Usage
+
+### How EncryptIt Works
+
+### EncryptIt's Capability
+
+### Our Process and Journey
+
+### License?
 
 ### Markdown
 
