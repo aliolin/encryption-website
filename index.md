@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aliolin/encryption-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Encrypted
+## Creating a simple, secure password management platform
+Software Design Final Project 2017
+
+<sub><sup>Authors: Alex Li, Chris Aring, Sean Symenski</sup></sub>
+![Image](src)
+
+### What is Encrypted?
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
